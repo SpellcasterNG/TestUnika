@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "Brand": "Mitsubishi",
+    "Model": "Lancer",
+    "Year": "2014-01-31"
+  },
+  {
+    "Id": 2,
+    "Brand": "Subaru",
+    "Model": "Impreza",
+    "Year": "2018-01-31"
+  },
+  {
+    "Id": 3,
+    "Brand": "Honda",
+    "Model": "Civic",
+    "Year": "2016-01-31"
+  },
+  {
+    "Id": 4,
+    "Brand": "Toyota",
+    "Model": "Corolla",
+    "Year": "1998-01-31"
+  },
+  {
+    "Id": 5,
+    "Brand": "Mazda",
+    "Model": "CX-7",
+    "Year": "2010-01-31"
+  },
+  {
+    "Id": 6,
+    "Brand": "Honda",
+    "Model": "CRV",
+    "Year": "2017-01-31"
+  },
+  {
+    "Id": 7,
+    "Brand": "Mercedes-Benz",
+    "Model": "GT",
+    "Year": "2019-01-31"
+  },
+  {
+    "Id": 8,
+    "Brand": "Ford",
+    "Model": "Focus",
+    "Year": "2012-01-31"
+  },
+  {
+    "Id": 9,
+    "Brand": "Kia",
+    "Model": "K6",
+    "Year": "2018-01-31"
+  },
+  {
+    "Id": 10,
+    "Brand": "Tesla",
+    "Model": "Model S",
+    "Year": "2017-01-31"
+  }
+]
